@@ -47,6 +47,7 @@
 		B69DF29D1C393A61004A7E86 /* VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VelocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B69DF2A11C393A61004A7E86 /* VelocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VelocimetroUITests.swift; sourceTree = "<group>"; };
 		B69DF2A31C393A61004A7E86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B69DF2AF1C393A81004A7E86 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = velocimetro.playground; path = ../../../velocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		B69DF2801C393A60004A7E86 /* Velocimetro */ = {
 			isa = PBXGroup;
 			children = (
+				B69DF2AF1C393A81004A7E86 /* velocimetro.playground */,
 				B69DF2811C393A60004A7E86 /* AppDelegate.swift */,
 				B69DF2831C393A60004A7E86 /* ViewController.swift */,
 				B69DF2851C393A60004A7E86 /* Main.storyboard */,
