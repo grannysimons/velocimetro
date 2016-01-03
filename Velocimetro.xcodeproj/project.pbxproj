@@ -47,7 +47,7 @@
 		B69DF29D1C393A61004A7E86 /* VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VelocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B69DF2A11C393A61004A7E86 /* VelocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VelocimetroUITests.swift; sourceTree = "<group>"; };
 		B69DF2A31C393A61004A7E86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B69DF2AF1C393A81004A7E86 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = velocimetro.playground; path = ../../../velocimetro.playground; sourceTree = "<group>"; };
+		B6EFEDB61C393EBC00A042D5 /* Velocimetro_Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro_Playground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,13 +98,13 @@
 		B69DF2801C393A60004A7E86 /* Velocimetro */ = {
 			isa = PBXGroup;
 			children = (
-				B69DF2AF1C393A81004A7E86 /* velocimetro.playground */,
 				B69DF2811C393A60004A7E86 /* AppDelegate.swift */,
 				B69DF2831C393A60004A7E86 /* ViewController.swift */,
 				B69DF2851C393A60004A7E86 /* Main.storyboard */,
 				B69DF2881C393A60004A7E86 /* Assets.xcassets */,
 				B69DF28A1C393A60004A7E86 /* LaunchScreen.storyboard */,
 				B69DF28D1C393A60004A7E86 /* Info.plist */,
+				B6EFEDB61C393EBC00A042D5 /* Velocimetro_Playground.playground */,
 			);
 			path = Velocimetro;
 			sourceTree = "<group>";
@@ -489,6 +489,7 @@
 				B69DF2A81C393A61004A7E86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B69DF2A91C393A61004A7E86 /* Build configuration list for PBXNativeTarget "VelocimetroTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +498,7 @@
 				B69DF2AB1C393A61004A7E86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B69DF2AC1C393A61004A7E86 /* Build configuration list for PBXNativeTarget "VelocimetroUITests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +507,7 @@
 				B69DF2AE1C393A61004A7E86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
